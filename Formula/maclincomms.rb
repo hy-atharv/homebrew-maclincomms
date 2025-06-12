@@ -8,7 +8,7 @@ class Maclincomms < Formula
 
     on_macos do
         url "https://github.com/hy-atharv/maclincomms/releases/download/v2.0.0/maclincomms-mac-arm.tar.gz"
-        sha256 "sha256:af4d0994b3d803999e531901f6d7e6c389efa476c91ff8a144ce8b1e9017d9ee"
+        sha256 "af4d0994b3d803999e531901f6d7e6c389efa476c91ff8a144ce8b1e9017d9ee"
     end
 
     on_linux do
