@@ -1,19 +1,19 @@
 
 
 class Maclincomms < Formula
-    desc "Terminal based chat for MacOS & Linux users"
+    desc "Modern Chat App in Terminal for macOS & Linux users"
     homepage "https://github.com/hy-atharv/maclincomms"
     
-    version "1.0.0"
+    version "2.0.0"
 
     on_macos do
-        url "https://github.com/hy-atharv/maclincomms/releases/download/v1.0.0/maclincomms-mac.tar.gz"
-        sha256 "f7f85da9f786b637593ad911c72da4650b860abe8bbc287c19e88959b055db2c"
+        url "https://github.com/hy-atharv/maclincomms/releases/download/v2.0.0/maclincomms-mac-arm.tar.gz"
+        sha256 "sha256:af4d0994b3d803999e531901f6d7e6c389efa476c91ff8a144ce8b1e9017d9ee"
     end
 
     on_linux do
-        url "https://github.com/hy-atharv/maclincomms/releases/download/v1.0.0/maclincomms-linux.tar.gz"
-        sha256 "51ec67e64dd0dd275594d1349f54c37be3b6b27790b141f64d985c5739e715de"
+        url "https://github.com/hy-atharv/maclincomms/releases/download/v2.0.0/maclincomms-linux-x86_64.tar.gz"
+        sha256 "8229ea6e680e91c90c1b5e40e1518611badad65c97b9e669267032bed4018e58"
     end
   
     def install
