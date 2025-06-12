@@ -5,4 +5,4 @@
 
 **Chat with your fellow macOS and Linux users in terminal**
 
-![**Documentation**](https://github.com/hy-atharv/maclincomms/blob/main/README.md)
+[**Documentation**](https://github.com/hy-atharv/maclincomms/blob/main/README.md)
